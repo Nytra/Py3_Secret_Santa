@@ -23,7 +23,7 @@ for name in names:
     d[name] = match
 
 # ===== Display the results
-for name in d.keys():
+for name in names:
     print(name, "->", d[name])
 
 input("Press enter to quit.")
