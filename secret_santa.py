@@ -26,4 +26,4 @@ for name in names:
 for name in d.keys():
     print(name, "->", d[name])
 
-
+input("Press enter to quit.")
